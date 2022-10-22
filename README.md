@@ -117,7 +117,7 @@ The count of people using the services starts dropping from the month of August.
 
 2) As observed, most of the casual riders ride on Fridays. We can hold special weekend discounts on annual membership to attract the customers. At the same time, we can offer a guarantee of bikes being available to annual membership holders on weekends, but the same can’t be guaranteed to casual riders.
 
-3) As we noticed from the graph, on average, casual riders ride for approximately 47 mins. We can have a scheme like “more discounts on more miles” where the riders can get discounts like 10% on 10 more mins of ride, 20% on 20 more mins and so on. These discounts will be used against purchase of annual membership.
+3) As we noticed from the graph, on average, casual riders ride for approximately 24 mins. We can have a scheme like “more discounts on more miles” where the riders can get discounts like 5% on 10 more mins of ride, 10% on 10 more mins and so on. These discounts will be used against purchase of annual membership.
 
 4) We can also smoothen the process of acquiring annual membership by making the whole process simple and completing it online too. On the other hand, casual riders should come to bike centers to get their bikes. This might pull some people towards annual membership, but in the long run, this will hurt the company’s image. So we should try not to fall for this dark/anti-pattern.
 
